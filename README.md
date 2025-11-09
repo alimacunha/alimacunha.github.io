@@ -27,12 +27,12 @@ _January 2022 – July 2024_
 
 ## Education
 
-**M.S., Software Design** – IT University of Copenhagen 
-_August 2024 - August 2027_
-Focus: Data Analytics, AI, Big Data Systems, Machine Learning
+**M.S., Software Design – IT University of Copenhagen**  
+_August 2024 – August 2027_
+- Focus: Data Analytics, AI, Big Data Systems, Machine Learning
 
-**B.S., Engineering** – University of São Paulo 
-_January 2016 - December 2021_
+**B.S., Engineering – University of São Paulo**  
+_January 2016 – December 2021_
 
 <!--
 ## Work Experience
