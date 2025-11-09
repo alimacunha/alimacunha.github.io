@@ -8,8 +8,7 @@ Welcome to my portfolio! I am a MSc Software Design student specializing in soft
 
 **Software Developer – Sealytix, Copenhagen**  
 _April 2025 – Present_  
-- Automate vessel onboarding processes through backend development and API integration.  
-- Build and maintain tools to validate and benchmark vessel performance across client datasets.  
+- Automate vessel onboarding processes through backend development and API integration.    
 - Develop and optimize machine learning workflows, including implementing models such as autoencoders to accelerate data generation and model training.  
 - Work with Azure-based data infrastructure and CI/CD pipelines to ensure scalability and automation efficiency.
 - Evaluate model performance, refine feature engineering, and streamline preprocessing of structured and unstructured maritime data.
