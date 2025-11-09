@@ -4,16 +4,6 @@ Welcome to my portfolio! I am a MSc Software Design student with a focus on data
 
 ---
 
-## Technical Skills
-
-- **Languages:** Python, Java, SQL, C#, LaTeX  
-- **Python Libraries:** pandas, numpy, matplotlib, seaborn  
-- **Data & Analytics Tools:** Power BI, Power Automate (learning), Excel, DBeaver  
-- **Development Tools:** Git, GitHub, VS Code  
-- **Concepts:** Data Cleaning, Data Visualization, Relational Databases, Data Mining, Big Data Systems, Agile Framework (SCRUM)
-
----
-
 ## Professional Experience
 
 **Software Developer – Sealytix, Copenhagen**  
@@ -67,6 +57,17 @@ _January 2019 – July 2024_
 - Collaborated cross-functionally to integrate environmental insights into design development. -->
 
 ---
+
+## Technical Skills
+
+- **Languages:** Python, Java, SQL, C#, LaTeX  
+- **Python Libraries:** pandas, numpy, matplotlib, seaborn  
+- **Data & Analytics Tools:** Power BI, Power Automate (learning), Excel, DBeaver  
+- **Development Tools:** Git, GitHub, VS Code  
+- **Concepts:** Data Cleaning, Data Visualization, Relational Databases, Data Mining, Big Data Systems, Agile Framework (SCRUM)
+
+---
+
 ## Digital Touchpoint Analytics for a Toy Retailer
 This project recreates a digital analytics environment for a fictional toy retailer, showcasing my ability to simulate user behavior tracking, build clean data pipelines, and deliver actionable insights through tailored dashboards and communication assets.
 - Designed and implemented simulated tracking variables to analyze customer journeys, engagement patterns, and conversion metrics.
