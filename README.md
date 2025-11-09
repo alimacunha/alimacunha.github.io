@@ -127,7 +127,7 @@ Key findings show that nearly half of exports come from São Paulo and Rio de Ja
 
 ## Software Engineering Projects
 
-- [**Search Engine in Java**](https://github.com/yourusername/java-search-engine)  
+- [**Search Engine in Java**](https://github.itu.dk/amli/Search-Engine-in-Java)  
   Developed a search engine featuring indexing, ranking algorithms, and query processing.
 
 ---
@@ -135,9 +135,12 @@ Key findings show that nearly half of exports come from São Paulo and Rio de Ja
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/amanda-cunha-213a1b1b5/)  
-- [Email](amli@itu.dk)  
-- [GitHub](https://github.itu.dk/amli)
+- [Email](mailto:amli@itu.dk)  
+- [GitHub - ITU](https://github.itu.dk/amli)
+- [Github - Personal](https://github.com/alimacunha)
 
 ---
 
 Thank you for visiting my portfolio. Feel free to explore my projects and reach out if you'd like to connect!
+I'm looking forward to hearing from you!
+
