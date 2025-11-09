@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! I am a MSc Software Design student with a focus on data analytics, automation, and machine learning. With a background in architectural engineering, I bring a unique cross-disciplinary approach to solving complex business problems through data-driven insights. I’m passionate about digital analytics, data engineering, and using technology to uncover what is behind the data.
+Welcome to my portfolio! I am a MSc Software Design student specializing in software development and machine learning. With a background in architectural engineering, I bring a unique cross-disciplinary mindset to building scalable systems and solving complex technical challenges. I’m passionate about designing intelligent solutions and exploring how machine learning can enhance real-world applications.
 
 ---
 
@@ -29,7 +29,7 @@ _January 2022 – July 2024_
 
 **M.S., Software Design – IT University of Copenhagen**  
 _August 2024 – August 2027_
-Focus: Data Analytics, AI, Big Data Systems, Machine Learning
+- Focus: Data Analytics, AI, Big Data Systems, Machine Learning
 
 **B.S., Engineering – University of São Paulo**  
 _January 2016 – December 2021_
