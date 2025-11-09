@@ -29,34 +29,10 @@ _January 2022 – July 2024_
 
 **M.S., Software Design – IT University of Copenhagen**  
 _August 2024 – August 2027_
-- Focus: Data Analytics, AI, Big Data Systems, Machine Learning
+Focus: Data Analytics, AI, Big Data Systems, Machine Learning
 
 **B.S., Engineering – University of São Paulo**  
 _January 2016 – December 2021_
-
-<!--
-## Work Experience
-
-**Teaching Assistant – BootIT & BootMath, IT University of Copenhagen**  
-_August 2025 – Present_  
-- Prepared course materials and supported students in foundational Java, SQL, and mathematics concepts.  
-- Provided hands-on guidance to build technical confidence and understanding.
-
-**Teaching Assistant – Software Engineering, IT University of Copenhagen**  
-_August 2025 – Present_  
-- Assisted students with object-oriented design, software architecture, and Java programming fundamentals.
-
-
-**Automation Designer – Archiologics**  
-_January 2025 – August 2025_  
-- Identified and corrected a critical step in a production data pipeline affecting over 70% of active accounts.  
-- Redeveloped loan origination models, improving performance by 50% and mitigating potential losses exceeding $1M.
-
-**Environmental Design Analyst – BIG (Bjarke Ingels Group), Copenhagen**  
-_January 2019 – July 2024_  
-- Conducted environmental analyses (sun, wind, radiation) to guide sustainable, data-driven architectural design decisions.  
-- Developed Python automation tools and parametric workflows for data simulation and analysis.  
-- Collaborated cross-functionally to integrate environmental insights into design development. -->
 
 ---
 
@@ -101,17 +77,19 @@ Key findings show that nearly half of exports come from São Paulo and Rio de Ja
 
 ## Data Science & Machine Learning Projects
 
-- [**Image Recognition with CNN (LeNet)**](https://github.com/yourusername/image-recognition-cnn)  
-  Developed a convolutional neural network using the Fashion MNIST dataset, achieving 82% accuracy in clothing image classification..
-
-- [**Digits Recognition (Fully Connected NN)**](https://github.com/yourusername/digits-recognition-fc)  
-  Developed a fully connected neural network for handwritten digit classification using MNIST.
-
-- [**USA Housing Price Prediction**](https://github.com/yourusername/housing-price-prediction)  
+- [**USA Housing Price Prediction**](https://github.itu.dk/amli/USA-Housing-Price-Prediction)  
   Created a linear regression model to predict U.S. housing prices based on demographic data.
 
-- [**Heart Attack Prediction**](https://github.com/yourusername/heart-attack-prediction)  
+- [**Heart Attack Prediction**](https://github.com/alimacunha/heart-attack-prediction)  
   Performed comparative analysis with logistic regression and decision tree classifiers.
+  
+<!--
+- [**Image Recognition with CNN (LeNet)**](https://github.com/alimacunha/image-recognition-cnn)  
+  Developed a convolutional neural network using the Fashion MNIST dataset, achieving 82% accuracy in clothing image classification..
+
+- [**Digits Recognition (Fully Connected NN)**](https://github.com/alimacunha/digits-recognition-fc)  
+  Developed a fully connected neural network for handwritten digit classification using MNIST.
+-->
 
 ---
 
@@ -120,14 +98,14 @@ Key findings show that nearly half of exports come from São Paulo and Rio de Ja
 - [**Othello AI with Alpha-Beta MinMax**](https://github.itu.dk/amli/OthelloProject)  
   Designed a strategic AI player for Othello using alpha-beta pruning optimization.
 
-- [**Sudoku Solver**](https://github.itu.dk/amli/sudoku_AI)  
+- [**Sudoku Solver**](https://github.com/alimacunha/Sudoku-Game-AI)  
   Implemented constraint satisfaction techniques including forward checking and arc consistency.
 
 ---
 
 ## Software Engineering Projects
 
-- [**Search Engine in Java**](https://github.itu.dk/amli/Search-Engine-in-Java)  
+- [**Search Engine in Java**](https://github.com/alimacunha/Search-Engine-Java)  
   Developed a search engine featuring indexing, ranking algorithms, and query processing.
 
 ---
@@ -144,3 +122,30 @@ Key findings show that nearly half of exports come from São Paulo and Rio de Ja
 Thank you for visiting my portfolio. Feel free to explore my projects and reach out if you'd like to connect!
 I'm looking forward to hearing from you!
 
+
+<!-- old:
+
+## Work Experience
+
+**Teaching Assistant – BootIT & BootMath, IT University of Copenhagen**  
+_August 2025 – Present_  
+- Prepared course materials and supported students in foundational Java, SQL, and mathematics concepts.  
+- Provided hands-on guidance to build technical confidence and understanding.
+
+**Teaching Assistant – Software Engineering, IT University of Copenhagen**  
+_August 2025 – Present_  
+- Assisted students with object-oriented design, software architecture, and Java programming fundamentals.
+
+
+**Automation Designer – Archiologics**  
+_January 2025 – August 2025_  
+- Identified and corrected a critical step in a production data pipeline affecting over 70% of active accounts.  
+- Redeveloped loan origination models, improving performance by 50% and mitigating potential losses exceeding $1M.
+
+**Environmental Design Analyst – BIG (Bjarke Ingels Group), Copenhagen**  
+_January 2019 – July 2024_  
+- Conducted environmental analyses (sun, wind, radiation) to guide sustainable, data-driven architectural design decisions.  
+- Developed Python automation tools and parametric workflows for data simulation and analysis.  
+- Collaborated cross-functionally to integrate environmental insights into design development. 
+
+-->
