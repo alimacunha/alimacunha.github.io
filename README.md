@@ -60,10 +60,10 @@ _January 2016 – December 2021_
   
   ![Iris detection / Screen Coordinates](Images/pupil.png) 
 
-- [**USA Housing Price Prediction**](https://github.itu.dk/amli/USA-Housing-Price-Prediction) 🔗  
+- [**USA Housing Price Prediction**](https://github.com/alimacunha/ML-Regression-Models) 🔗  
   Created a linear regression model to predict U.S. housing prices based on demographic data.
 
-- [**Heart Attack Prediction**](https://github.com/alimacunha/heart-attack-prediction) 🔗  
+- [**Heart Attack Prediction**](https://github.com/alimacunha/ML-Regression-Models) 🔗  
   Performed comparative analysis with logistic regression and decision tree classifiers.
 
   
