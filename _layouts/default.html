@@ -1,1 +1,22 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+
+      <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Powered by Jekyll and GitHub Pages.</p>
+      </footer>
+    </div>
+  </body>
+</html>
